@@ -6,7 +6,7 @@ const Main=()=>(
            </div>
            <div className="interest-container">
                  <h3>Interest</h3>
-                 <p>My passion is creating beautiful and functional user interfaces that improve people's lives</p>          
+                 <p>My passion is to create beautiful and functional user interfaces that improve people's lives</p>          
            </div>
     </main>
 )
